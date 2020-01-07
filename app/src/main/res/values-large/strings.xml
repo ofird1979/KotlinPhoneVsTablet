@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_left_fragment">this is the left fragment</string>
+    <string name="hello_right_fragment">this is the right fragment</string>
+</resources>

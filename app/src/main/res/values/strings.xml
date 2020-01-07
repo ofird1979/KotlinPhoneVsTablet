@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinMovies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_left_fragment">this is the left fragment</string>
+    <string name="hello_right_fragment">this is the right fragment</string>
+</resources>
